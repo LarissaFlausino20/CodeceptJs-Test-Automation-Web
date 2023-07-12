@@ -6,7 +6,7 @@ https://codecept.io/basics/
 
 ## Command in the terminal
 - To run all tests -> npx codeceptjs run
-- To run the scene by tag - > npx codeceptjs run --grep '@tag'
+- To execute the scenario specified by the tag - > npx codeceptjs run --grep '@tag'
 
 ## Contato:
 Larissa Flausino
