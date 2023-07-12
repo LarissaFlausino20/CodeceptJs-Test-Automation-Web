@@ -9,5 +9,6 @@ https://codecept.io/basics/
 - To run the scene by tag - > npx codeceptjs run --grep '@tag'
 
 ## Contato:
--Larissa 
+- Larissa Flausino
 https://www.linkedin.com/in/larissa-flausino-49a942213
+https://join.skype.com/invite/kNoUe5A8oOfL
