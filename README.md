@@ -1,4 +1,4 @@
-## Project Web Automation 
+## Web Automation Project
 CodeceptJs + JS
 
 ## Documentation
